@@ -29,10 +29,10 @@ Kaggle (CSVs) → data/raw/ → Python (ETL) → PostgreSQL → SQL (transforma�
 - [x] Etapa 1 — Obter os dados (dataset Olist)
 - [x] Etapa 2 — Explorar e entender os dados
 - [x] Etapa 3 — Modelagem de dados (esquema estrela)
-- [ ] Etapa 4 — Pipeline ETL em Python
-- [ ] Etapa 5 — Transformação em SQL (fato e dimensões)
-- [ ] Etapa 6 — Qualidade de dados
-- [ ] Etapa 7 — Dashboard no Power BI
+- [x] Etapa 4 — Pipeline ETL em Python
+- [x] Etapa 5 — Transformação em SQL (fato e dimensões)
+- [x] Etapa 6 — Qualidade de dados
+- [x] Etapa 7 — Dashboard no Power BI
 - [ ] Etapa 8 — Documentação final e publicação no GitHub
 - [ ] Etapa 9 — Post de divulgação no LinkedIn
 
