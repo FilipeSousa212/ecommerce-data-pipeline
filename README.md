@@ -26,9 +26,9 @@ Kaggle (CSVs) → data/raw/ → Python (ETL) → PostgreSQL → SQL (transforma�
 ## Roteiro do projeto
 
 - [x] Etapa 0 — Estrutura do projeto e Git
-- [ ] Etapa 1 — Obter os dados (dataset Olist)
-- [ ] Etapa 2 — Explorar e entender os dados
-- [ ] Etapa 3 — Modelagem de dados (esquema estrela)
+- [x] Etapa 1 — Obter os dados (dataset Olist)
+- [x] Etapa 2 — Explorar e entender os dados
+- [x] Etapa 3 — Modelagem de dados (esquema estrela)
 - [ ] Etapa 4 — Pipeline ETL em Python
 - [ ] Etapa 5 — Transformação em SQL (fato e dimensões)
 - [ ] Etapa 6 — Qualidade de dados
