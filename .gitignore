@@ -1,0 +1,12 @@
+# Dados (não versionamos dados brutos/processados no Git)
+data/raw/*.csv
+data/processed/*.csv
+
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Power BI (arquivo binário grande)
+dashboard/*.pbix
