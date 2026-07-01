@@ -23,6 +23,15 @@ Kaggle (CSVs) → data/raw/ → Python (ETL) → PostgreSQL → SQL (transforma�
 - **Orquestração do ETL:** Python (pandas + SQLAlchemy)
 - **Visualização:** Power BI Desktop
 
+## Resultados
+
+![Dashboard](docs/dashboard.png)
+
+- **Faturamento total:** R$ 13.591.643,70 (calculado direto do `fato_pedidos`)
+- **Crescimento:** salto expressivo de 2016 (ano de lançamento da Olist) para 2017-2018
+- **Concentração geográfica:** São Paulo lidera isolado em faturamento, seguido por RJ e MG
+- **Top categorias:** beleza_saude, relogios_presentes e cama_mesa_banho no topo do ranking
+
 ## Roteiro do projeto
 
 - [x] Etapa 0 — Estrutura do projeto e Git
@@ -33,8 +42,8 @@ Kaggle (CSVs) → data/raw/ → Python (ETL) → PostgreSQL → SQL (transforma�
 - [x] Etapa 5 — Transformação em SQL (fato e dimensões)
 - [x] Etapa 6 — Qualidade de dados
 - [x] Etapa 7 — Dashboard no Power BI
-- [ ] Etapa 8 — Documentação final e publicação no GitHub
-- [ ] Etapa 9 — Post de divulgação no LinkedIn
+- [x] Etapa 8 — Documentação final e publicação no GitHub
+- [] Etapa 9 — Post de divulgação no LinkedIn
 
 ## Estrutura de pastas
 
@@ -46,7 +55,7 @@ docs/               # anotações e decisões do projeto
 
 ## Status
 
- Em construção.
+ Pipeline completo, do dado bruto ao dashboard.
 
 ## Autor
 
